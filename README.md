@@ -49,9 +49,9 @@ Scraped Data: Date, room price, hotel name, and hotel description
 The study demonstrates that the Sónar Festival significantly increases rental prices in Barcelona. The use of a control city (Valencia) and additional text features enhances the reliability of the results. Future research can explore the specific functions of metaphors and their influence on public perception and policy effectiveness.
 
 ### File Descriptions
-scraping_nb.ipynb: Jupyter Notebook with the data scraping pipeline.
-regression_analysis.R: R script with regression models and analysis.
-summary_statistics.csv: Summary statistics of luxury and amenities features.
-data/: Directory containing raw and processed data files.
-figures/: Directory containing visualizations such as word clouds and correlation matrices.
-Assignment1_NLP.pdf: Detailed project report.
++ scraping_nb.ipynb: Jupyter Notebook with the data scraping pipeline.
++ regression_analysis.R: R script with regression models and analysis.
++ summary_statistics.csv: Summary statistics of luxury and amenities features.
++ data/: Directory containing raw and processed data files.
++ figures/: Directory containing visualizations such as word clouds and correlation matrices.
++ Assignment1_NLP.pdf: Detailed project report.
